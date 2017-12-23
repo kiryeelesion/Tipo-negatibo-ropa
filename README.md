@@ -1,2 +1,2 @@
-# Tipo_Negativo.github.io
+# TipoNegativo
 Sito web de tipo negatvio
